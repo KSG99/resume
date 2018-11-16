@@ -21,9 +21,13 @@ RESUME
 ##### 내가 자주가는 사이트
 1. https://www.githud,com  
 2. [한림대학교](https://www.hallym.ac.kr)  
-3. [네이버][1]
+3. [네이버][1]  
+----------------------------- 
+![페리사진](images.jpg)
+
+1 | 2
+--|--
+3 | 4
 
 
-
-
-[1]: htpps://www.naver.com
+[1]: https://www.naver.com
